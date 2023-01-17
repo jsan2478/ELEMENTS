@@ -499,7 +499,8 @@ button:hover {
   }
 
   section.eight .container .contact-info form.contact textarea::placeholder {
-    padding-top: 65px;
+     font-family: 'Roboto', sans-serif;
+    padding-top: 60px;
   }
   section.eight .container .contact-info form.contact button {
     padding: 20px 25px;
